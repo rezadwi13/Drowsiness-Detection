@@ -1,6 +1,7 @@
 # Drowsiness Detection Web App
 
 Aplikasi deteksi kantuk berbasis EAR (Eye Aspect Ratio) yang dijalankan dengan MediaPipe JS
+<img width="1850" height="797" alt="image" src="https://github.com/user-attachments/assets/510b4e3f-250a-440d-a021-87fcd056c471" />
 
 ---
 
