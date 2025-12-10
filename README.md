@@ -1,10 +1,16 @@
 # Drowsiness Detection Web App
 
-Aplikasi deteksi kantuk berbasis EAR (Eye Aspect Ratio) yang dijalankan dengan Flask dan MediaPipe JS (deteksi di browser/klien).
+Aplikasi deteksi kantuk berbasis EAR (Eye Aspect Ratio) yang dijalankan dengan MediaPipe JS
 
 ---
 
-## Menjalankan (Flask + MediaPipe JS)
+## Deployment (Vercel)
+
+Aplikasi sudah di-deploy di: [https://drowsiness-detection.vercel.app](https://drowsiness-detection.vercel.app)
+
+---
+
+## Cara Menjalankan Lokal (Flask + MediaPipe JS)
 
 Deteksi dijalankan di browser menggunakan MediaPipe FaceMesh JS. Flask hanya menyajikan file HTML/JS/CSS.
 
